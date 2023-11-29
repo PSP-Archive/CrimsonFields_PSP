@@ -1,0 +1,54 @@
+Crimson Fields PSP 0.1 based on PC version 0.4.9
+
+This is a port of Crimson Fields - tactical war game in Battle Isle style. Original game by Jens Granseuer (jensgr@gmx.net),
+port created by Micha³ Skorupka (crust@neo.pl). There are two directories, one contains binaries and data prepared for
+Sony PSP with firmware 1.5 and modified game sources with projects makefiles ect.
+
+Requirements:
+
+- Sony PSP with firmware 1.5 (if someone wants 1.0 version please recompile by yourself or write me ;))
+
+Instalation:
+
+- Copy CrimsonFields and CrimsonFields% directories to PSP/GAME/ directory directly on you memory stick.
+
+Bugs:
+
+- there is no in game music (if You want music please ocnvert atached midi music into mod and place in same directory with .mod extension)
+- game freezes at exit (you need to reboot your PSP, hold power button by 4 seconds ;)
+- keyboard layout is not optimal (not a real bug ;)
+- some mysterious hidden ones :)
+
+Usage:
+
+Original game uses mouse + keyboard to play, controls in PSP version:
+
+Mouse movement - analogue stick
+LMB - left trigger
+RMB - right trigger
+MMB - triangle button
+
+LEFT arrow - left button
+RIGHT arrow - right button
+UP arrow - up button
+DOWN arrow - down button
+
+ENTER - cross button
+F1 - select button
+F2 - circle button
+SPACE - square button
+ESC - start button
+
+The latest PC release can be found at:
+
+http://crimson.seul.org 
+
+PSP release
+
+http://michal.skorupka.blogspot.org
+
+Contact:
+
+Feel fre to contact me at crust@neo.pl
+
+I think thats all ;)
